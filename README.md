@@ -13,10 +13,10 @@
 
 * [Cable Chat](https://github.com/bubunyo/CableChat) - A chat app implemented with Rails ActionCable **By [@kiddbubu](https://twitter.com/kiddbubu)**
 * [Choropleth Map of Ghana](https://github.com/bnhn/choropleth-districts) - A choropleth map which visualizes the population density across all the districts of Ghana **By [@Bbenhin](https://twitter.com/Bbenhin)**
-* [clockwatch](https://github.com/illmawutor/clockwatch) - clockwatch is a simple python module that returns relative time (time told with respect to a particular point in the past.) A practical application of 'Relative' time is in time stamps.  **By [@illmawutor](https://twitter.com/illmawutor)**
+* [clockwatch](https://github.com/illmawutor/clockwatch) - clockwatch is a simple python module that returns relative time (time told with respect to a particular point in the past.) A practical application of 'Relative' time is in timestamps.  **By [@illmawutor](https://twitter.com/illmawutor)**
 * [Custom MaterializeCSS Download](https://twitter.com/nkansahrexford) - A web interface for MaterializeCSS users to customize their CSS before download. **By [@nkansahrexford](https://twitter.com/nkansahrexford)**
 * [CodeBySide](https://twitter.com/nkansahrexford) - A way to compare code side by side of different programming languages. **By [@nkansahrexford](https://twitter.com/nkansahrexford)**
-* [CryptoManiac](https://github.com/gwuah/crypto-maniac) - A chrome extension that displays the prices of the top 6 crypto-currencies in realtime. Yup, Realtime! **By [@gwuah_](https://twitter.com/gwuah_)**
+* [CryptoManiac](https://github.com/gwuah/crypto-maniac) - A chrome extension that displays the prices of the top 6 crypto-currencies in realtime. Yup, Real time! **By [@gwuah_](https://twitter.com/gwuah_)**
 
 ## <a name="D"> </a>D
 
@@ -40,13 +40,13 @@
 * [Github User Search](https://github.com/Chiamaka/GithubUserSearch) - iOS and Android app created with React Native that lets you search for a Github user by their username   **By [@Mz_Chi](https://twitter.com/Mz_Chi)**
 
 
-* [Go Kafka Alert](https://malike.github.io/go-kafka-alert/) - A Go application that feeds of data from Apache Kafka to send alerts via SMS,EMAIL or  Webhook delivery channels. **By [@malike_st](https://twitter.com/malike_st)**
+* [Go Kafka Alert](https://malike.github.io/go-kafka-alert/) - A Go application that feeds data from Apache Kafka to send alerts via SMS,EMAIL or  Webhook delivery channels. **By [@malike_st](https://twitter.com/malike_st)**
 
 * [GLab](https://github.com/profclems/glab) - A CLI Tool for creating and managing GitLab issues and merge requests. **By [@clems_dev](https://twitter.com/clems_dev)**
 
 
 ## <a name="H"> </a>H
-* [Hubtel Payment (PHP)](https://ovac.github.io/hubtel-payment) - The best and most comphrensive PHP Client for consuming the Hubtel Payment API and for sending and receiving Mobile Money Payment from a php application with an elegant **Write as it sounds** syntax.  **By [@ovac4u](https://www.ovac4u.com)**
+* [Hubtel Payment (PHP)](https://ovac.github.io/hubtel-payment) - The best and most comprehensive PHP Client for consuming the Hubtel Payment API and for sending and receiving Mobile Money Payment from a php application with an elegant **Write as it sounds** syntax.  **By [@ovac4u](https://www.ovac4u.com)**
 
 ## <a name="I"> </a>I
 * [Internship Ghana](https://github.com/romeo-folie/InternshipGhana) - Simple node.js web app that scrapes and presents a list of internship opportunities in Ghana for students. **Write as it sounds** syntax.  **By [@Rho_mheow](https://twitter.com/Rho_mheow)**
@@ -89,7 +89,7 @@
 
 * [RanString](https://github.com/Casprine/ranString) - A random string generator built with Javascript. **By [casprine_ix](https://twitter.com/casprine_ix)**
 
-* [Rapunzel](https://github.com/sammoorhouse/rapunzel) - Animated high-resolution barcodes as a a workable mode of communication for sending data across an air gap. **By [@barnabasnomo](https://twitter.com/barnabasnomo) and [@sammoorhouse](https://twitter.com/sammoorhouse)**
+* [Rapunzel](https://github.com/sammoorhouse/rapunzel) - Animated high-resolution barcodes as a workable mode of communication for sending data across an air gap. **By [@barnabasnomo](https://twitter.com/barnabasnomo) and [@sammoorhouse](https://twitter.com/sammoorhouse)**
 
 * [Roidis](https://github.com/thedumbtechguy/Roidis) - An object hash mapper written on top of Redis for .NET and .NET Core. Roidis is Redis on Steroids! Documentation is still WIP. **By [TheDumbTechGuy](https://twitter.com/TheDumbTechGuy)**
 
